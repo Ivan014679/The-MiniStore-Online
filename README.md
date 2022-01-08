@@ -3,9 +3,10 @@ Aplicativo desarrollado en PHP, HTML y CSS, para el control de inventario en peq
 
 
 <p align="center">
-  <img width="600" height="200" src="imagenes/LoginScreenshot.png">
-</p>
+  <img width="600" height="600" src="imagenes/LoginScreenshot.png">
+
 Módulo de ingreso de usuario para iniciar sesión en el aplicativo.
+</p>
 
 
 ![Creación de cuenta](imagenes/SignInScreenshot.png?raw=true "Sign In")
