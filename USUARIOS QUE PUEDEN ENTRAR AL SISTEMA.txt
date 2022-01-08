@@ -1,0 +1,13 @@
+Existen 3 usuarios los cuales pueden ingresar al sistema según la base de datos:
+
+USUARIO 1
+Cédula: 12345
+Contraseña: admin
+
+USUARIO 2
+Cédula: 00000
+Contraseña: 00000
+
+USUARIO 3
+Cédula: 54321
+Contraseña: 12345
