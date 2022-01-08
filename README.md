@@ -1,9 +1,10 @@
-# The-MiniStore-Online
+# The MiniStore Online
 Aplicativo desarrollado en PHP, HTML y CSS, para el control de inventario en pequeños negocios.
 
 
-![Ingreso de usuario](imagenes/LoginScreenshot.png?raw=true "Login")
-
+<p align="center">
+  <img width="600" height="200" src="imagenes/LoginScreenshot.png">
+</p>
 Módulo de ingreso de usuario para iniciar sesión en el aplicativo.
 
 
