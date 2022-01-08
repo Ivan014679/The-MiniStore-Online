@@ -2,33 +2,32 @@
 Aplicativo desarrollado en PHP, HTML y CSS, para el control de inventario en pequeños negocios.
 
 
-<p align="center">
-  <img width="600" height="600" src="imagenes/LoginScreenshot.png">
+<img width="100%" height="100%" src="imagenes/LoginScreenshot.png">
+  
 Módulo de ingreso de usuario para iniciar sesión en el aplicativo.
-</p>
 
 
-![Creación de cuenta](imagenes/SignInScreenshot.png?raw=true "Sign In")
+<img width="100%" height="100%" src="imagenes/SignInScreenshot.png">
 
 Módulo de creación de cuenta para el registro de usuarios.
 
 
-![Lista de productos](imagenes/ProductsScreenshot.png?raw=true "Products to buy")
-![Lista de ventas](imagenes/ShoppingScreenshot.png?raw=true "Sales")
+<img width="100%" height="100%" src="imagenes/ProductsScreenshot.png">
+<img width="100%" height="100%" src="imagenes/ShoppingScreenshot.png">
 
 Módulo de compras para el cálculo y la realización de una factura.
 
 
-![Usuarios](imagenes/UsersScreenshot.png?raw=true "Users")
+<img width="100%" height="100%" src="imagenes/UsersScreenshot.png">
 
 Módulo para la administración de usuarios presentes en el sistema.
 
 
-![Inventario](imagenes/Products2Screenshot.png?raw=true "Products in inventory")
+<img width="100%" height="100%" src="imagenes/Products2Screenshot.png">
 
 Módulo para la administración de productos presentes en el inventario.
 
 
-![Proveedores](imagenes/ProvidersScreenshot.png?raw=true "Providers")
+<img width="100%" height="100%" src="imagenes/ProvidersScreenshot.png">
 
 Módulo para la administración de los proveedores de una tienda.
